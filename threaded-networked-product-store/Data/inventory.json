@@ -1,0 +1,30 @@
+[ {
+  "id" : 1,
+  "name" : "Excalibur",
+  "description" : "Legendary sword",
+  "dateOfManufacture" : [ 2022, 1, 1 ],
+  "price" : 499.99,
+  "type" : "weapon",
+  "weaponType" : "Sword",
+  "hitValue" : 120,
+  "carryWeight" : 6.5
+}, {
+  "id" : 2,
+  "name" : "Dragon Shield",
+  "description" : "Shield made from dragon scales",
+  "dateOfManufacture" : [ 2021, 5, 15 ],
+  "price" : 299.99,
+  "type" : "armor",
+  "armorType" : "Shield",
+  "defenseBonus" : 75.0
+}, {
+  "id" : 3,
+  "name" : "Healing Potion",
+  "description" : "Restores health instantly",
+  "dateOfManufacture" : [ 2023, 3, 20 ],
+  "price" : 19.99,
+  "type" : "health",
+  "category" : "Potion",
+  "healingPoints" : 50,
+  "ingredients" : [ "Herbs", "Magic Dust" ]
+} ]
