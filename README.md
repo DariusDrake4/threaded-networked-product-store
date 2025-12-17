@@ -37,3 +37,6 @@ This project extends a single-client product store into a concurrent, multi-clie
 
 ## Notes
 This project was completed as a final milestone and received a score of **100%**.
+## Academic Context
+Completed as the final project for CST-239 (Java II) at Grand Canyon University.
+
